@@ -1,0 +1,8 @@
+.header {
+  border: 1px solid red;
+  padding-top: 28px;
+  display: flex;
+  justify-content: space-between;
+
+
+}

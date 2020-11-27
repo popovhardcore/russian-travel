@@ -1,0 +1,16 @@
+.intro {
+  border: 1px solid red;
+  max-width: 80%;
+  margin: 0 auto;
+}
+@media screen and (max-width: 768px) {
+   .intro {
+
+/* identical to box height, or 109% */
+max-width: 95%;
+margin: 0 auto;
+
+
+
+   }
+}

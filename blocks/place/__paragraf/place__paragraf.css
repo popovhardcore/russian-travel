@@ -1,0 +1,26 @@
+.place__paragraf {
+  border: 1px solid red;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 163%;
+  color: white;
+  margin: 0;
+  padding-bottom: 26px;
+}
+
+@media screen and (max-width: 768px) {
+   .place__paragraf {
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 163%;
+
+
+
+
+   }
+}

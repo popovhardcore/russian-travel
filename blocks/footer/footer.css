@@ -1,0 +1,15 @@
+.footer {
+  border: 1px solid red;
+  padding: 92px 0 24px 0;
+  display: flex;
+  justify-content: space-between;
+}
+@media screen and (max-width: 414px) {
+   .footer {
+
+/* identical to box height, or 109% */
+display: block;
+
+
+   }
+}

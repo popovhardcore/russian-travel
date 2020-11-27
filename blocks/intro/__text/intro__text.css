@@ -1,0 +1,9 @@
+.intro__text {
+  border: 1px solid red;
+  max-width: 690px;
+  margin: 0 0 33px 0;
+  font-family: Inter;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 163%;
+}

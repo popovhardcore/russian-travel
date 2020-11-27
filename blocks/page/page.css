@@ -1,0 +1,10 @@
+.page {
+    /* min-width: 80%; */
+    max-width: 1184px;
+    margin: 0 auto;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    color: white;
+    border: 1px solid red;
+    box-sizing: border-box;
+
+}
