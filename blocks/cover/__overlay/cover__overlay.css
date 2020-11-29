@@ -3,8 +3,13 @@
   background: rgba(42,44,47, 0.3);
   /* min-height: 740px; */
 
-  width: 100vw;
-  height: 62.5vw;
+  /* width: 100vw;
+  height: 62.5vw; */
+
+
+  width: 100%;
+  min-height: 740px;
+
   border: .1px solid rgba(42,44,47, 0.3);
   /* border: 1px solid red; */
 }
