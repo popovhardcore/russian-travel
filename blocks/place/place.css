@@ -1,5 +1,5 @@
 .place {
-  border: 1px solid red;
+  /* border: 1px solid red; */
   padding-bottom: 80px;
   display: grid;
   grid-template-columns: auto auto ;
@@ -13,9 +13,10 @@
 
   grid-column-gap: 40px;
 }
-@media screen and (max-width: 414px) {
+@media screen and (max-width: 420px) {
    .place {
       display: block;
+      padding-bottom: 0px;
 /* identical to box height, or 109% */
 
 

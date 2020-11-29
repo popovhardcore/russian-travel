@@ -1,8 +1,16 @@
 .header {
-  border: 1px solid red;
+  /* border: 1px solid red; */
   padding-top: 28px;
   display: flex;
   justify-content: space-between;
 
 
+}
+@media screen and (max-width: 420px) {
+    .header {
+    padding-top: 16px;
+
+
+
+    }
 }

@@ -1,7 +1,21 @@
  .cover__overlay {
 
-  background-color: #2A2C2F;
-  opacity: 0.3;
+  background: rgba(42,44,47, 0.3);
+  /* min-height: 740px; */
+
+  width: 100vw;
+  height: 62.5vw;
+  border: .1px solid rgba(42,44,47, 0.3);
+  /* border: 1px solid red; */
+}
+.cover__overlay:hover {
+  background: rgba(42,44,47, 0.8);
   min-height: 740px;
-  border: 1px solid red;
+  border: .1px solid rgba(42,44,47, 0.3);
+}
+@media screen and (max-width: 420px) {
+    .cover__overlay {
+      min-height: 200px;
+
+    }
 }

@@ -9,8 +9,11 @@
   padding-right: 18px;
 
 }
+.footer__link:hover {
+  opacity: 50%;
+}
 
-@media screen and (max-width: 414px) {
+@media screen and (max-width: 420px) {
    .footer__link {
 
 /* identical to box height, or 109% */
