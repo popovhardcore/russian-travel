@@ -1,4 +1,7 @@
 .header__logo {
   /* border: 1px solid red; */
-
+background-image: url('../../../images/header-logo (1).svg');
+background-position: center;
+width: 176px;
+height: 52px;
 }
