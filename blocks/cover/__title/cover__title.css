@@ -20,7 +20,7 @@ display: block;
 
     }
 }
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 620px) {
     .cover__title {
       font-family: Inter;
       font-style: normal;
