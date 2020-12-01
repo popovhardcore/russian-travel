@@ -7,7 +7,7 @@
   height: 62.5vw; */
 
 
-  width: 100%;
+  /* width: 100%; */
   min-height: 740px;
 
   border: .1px solid rgba(42,44,47, 0.3);
@@ -20,7 +20,7 @@
 }
 @media screen and (max-width: 420px) {
     .cover__overlay {
-      min-height: 200px;
+      /* min-height: 200px; */
 
     }
 }
