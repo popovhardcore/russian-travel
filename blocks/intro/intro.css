@@ -1,7 +1,18 @@
 .intro {
   /* border: 1px solid red; */
-  max-width: 80%;
+  max-width: 85%;
   margin: 0 auto;
+}
+@media screen and (max-width: 1024px) {
+    .intro {
+      max-width: 928px;
+      margin: 0 auto;
+      }
+
+
+
+
+    }
 }
 @media screen and (max-width: 768px) {
    .intro {
@@ -13,4 +24,13 @@ margin: 0 auto;
 
 
    }
+}
+@media screen and (max-width: 420px) {
+    .intro {
+
+    max-width: 288px;
+    margin: 0 auto;
+
+
+    }
 }

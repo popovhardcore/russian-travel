@@ -1,9 +1,21 @@
 .lead {
   /* border: 1px solid red; */
-  max-width: 80%;
+  max-width: 85%;
   margin: 0 auto;
   /* background-image: url('../images/lead-road.png');
   z-index: 1; */
+}
+
+@media screen and (max-width: 1024px) {
+    .lead {
+      max-width: 928px;
+      margin: 0 auto;
+      }
+
+
+
+
+    }
 }
 @media screen and (max-width: 768px) {
    .lead  {

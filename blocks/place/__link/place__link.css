@@ -7,10 +7,17 @@
   font-weight: normal;
   font-size: 18px;
   line-height: 22px;
-  margin: 0 0 20px 0;
+  margin: 0;
+  align-self: start;
+
 
 
 }
 .place__link:hover {
   opacity: 50%;
+}
+@media screen and (max-width: 420px) {
+   .place__link {
+    display: none;
+  }
 }

@@ -1,7 +1,14 @@
+.footer__nav {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
 @media screen and (max-width: 420px) {
    .footer__nav {
 
-/* identical to box height, or 109% */
+
 display: flex;
 flex-direction: column;
 

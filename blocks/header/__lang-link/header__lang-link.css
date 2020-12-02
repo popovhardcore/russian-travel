@@ -9,9 +9,18 @@
   line-height: 28px;
   padding-left: 18px;
 }
-.header__lang-link:last-child {
-  text-decoration: none;
-}
+
 .header__lang-link:hover {
   opacity: 50%;
+}
+@media screen and (max-width: 420px) {
+    .header__lang-link {
+      font-family: Inter;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 18px;
+      line-height: 20px;
+
+
+    }
 }

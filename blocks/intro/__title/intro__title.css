@@ -11,14 +11,11 @@
 @media screen and (max-width: 420px) {
     .intro__title {
       font-family: Inter;
-font-style: normal;
-font-weight: 900;
-font-size: 32px;
-line-height: 35px;
-/* or 109% */
-
-text-align: center;
-
-color: #FFFFFF;
+      font-style: normal;
+      font-weight: 900;
+      font-size: 32px;
+      line-height: 35px;
+      /* text-align: center; */
+      color: #FFFFFF;
     }
 }

@@ -29,7 +29,7 @@
     }
 }
 
-@media screen and (max-width: 414px) {
+@media screen and (max-width: 404px) {
    .place__title {
       font-family: Inter;
       font-style: normal;
@@ -37,6 +37,7 @@
       margin: 0 0 32px 0;
       font-size: 32px;
       line-height: 35px;
+      margin-left: 16px;
 /* identical to box height, or 109% */
 
 
