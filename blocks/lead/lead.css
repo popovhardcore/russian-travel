@@ -11,20 +11,11 @@
       max-width: 928px;
       margin: 0 auto;
       }
-
-
-
-
     }
 }
 @media screen and (max-width: 768px) {
-   .lead  {
-
-/* identical to box height, or 109% */
-max-width: 95%;
-margin: 0 auto;
-
-
-
-   }
+    .lead{
+      max-width: 720px;
+      margin: 0 auto;
+      }
 }

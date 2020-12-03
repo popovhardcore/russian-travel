@@ -1,6 +1,6 @@
 .footer {
   /* border: 1px solid red; */
-  padding: 92px 0 24px 0;
+  padding: 82px 0 24px 0;
   display: flex;
   justify-content: space-between;
 }
@@ -8,6 +8,7 @@
     .footer {
       max-width: 928px;
       margin: 0 auto;
+
       }
 }
 
@@ -18,11 +19,11 @@
       }
 }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 550px) {
    .footer {
 
 /* identical to box height, or 109% */
-  display: block;
+   display: block;
    padding: 64px 0 0 0;
 
    }

@@ -17,7 +17,7 @@ grid-column-gap: 40px;
       padding-bottom: 10px;
       }
 }
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 480px) {
    .place {
       display: block;
       padding-bottom: 0px;

@@ -34,31 +34,7 @@
 @import "../blocks/cover/__subtitle/cover__subtitle.css";
 @import "../blocks/footer/footer.css";
 @import "../blocks/footer/__nav/footer__nav.css";
+@import "../blocks/footer/__nav-item/footer__nav-item.css";
 @import "../blocks/footer/__link/footer__link.css";
 @import "../blocks/footer/__copyright/footer__copyright.css";
-
-
-
-@font-face {
-  font-family: 'Inter';
-  font-style:  normal;
-  font-weight: 900;
-  src: url("../vendor/inter/Inter-Black.woff2") format("woff2"),
-       url("../vendor/inter/Inter-Black.woff") format("woff");
-}
-
-@font-face {
-  font-family: 'Inter';
-  font-style:  normal;
-  font-weight: normal;
-  src: url("../vendor/inter/Inter-Regular.woff2") format("woff2"),
-       url("../vendor/inter/Inter-Regular.woff") format("woff");
-}
-
-@font-face {
-  font-family: 'Inter';
-  font-style:  normal;
-  font-weight: bold;
-  src: url("../vendor/inter/Inter-Bold.woff2") format("woff2"),
-       url("../vendor/inter/Inter-Bold.woff") format("woff");
-}
+@import "../vendor/inter/fonts.css";

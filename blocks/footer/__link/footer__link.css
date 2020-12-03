@@ -13,7 +13,7 @@
   opacity: 50%;
 }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 550px) {
    .footer__link {
 
 /* identical to box height, or 109% */
@@ -22,9 +22,5 @@ font-style: normal;
 font-weight: normal;
 font-size: 24px;
 line-height: 24px;
-margin: 0 0 32px 16px;
-
-
-
-   }
+  }
 }
