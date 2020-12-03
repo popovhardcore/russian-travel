@@ -11,12 +11,12 @@ color: #FFFFFF;
 /* margin: 245px auto 32px; */
 text-decoration: none;
 display: block;
-
+margin-bottom: 32px;
 }
 @media screen and (max-width: 768px) {
     .cover__title {
 
-      
+
 
     }
 }
