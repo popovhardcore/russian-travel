@@ -2,6 +2,7 @@
   background: rgba(42,44,47, 0.3);
   min-height: 740px;
   border: .1px solid rgba(42,44,47, 0.3);
+  display: flex;
 }
 .cover__overlay:hover {
   background: rgba(42,44,47, 0.8);
