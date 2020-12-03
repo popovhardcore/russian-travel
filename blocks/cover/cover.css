@@ -1,13 +1,13 @@
 .cover {
   background-image: url('./../../images/cover-trains.jpg');
-  width: 100%;
+  /* width: 100%; */
   background-size: cover;
   background-position: center;
   /* border: 1px solid red; */
 }
 @media screen and (max-width: 1024px) {
     .cover {
-      height: 62.5vw;
+      /* height: 62.5vw; */
       background-size: cover;
       background-position: center;
       /* border: 1px solid red; */
