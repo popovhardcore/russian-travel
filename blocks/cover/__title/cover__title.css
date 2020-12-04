@@ -13,23 +13,11 @@ text-decoration: none;
 display: block;
 margin-bottom: 32px;
 }
-@media screen and (max-width: 768px) {
-    .cover__title {
 
-
-
-    }
-}
 @media screen and (max-width: 620px) {
     .cover__title {
-      font-family: Inter, Arial, sans-serif;
-      font-style: normal;
-      font-weight: 900;
       font-size: 37px;
       line-height: 35px;
-      text-align: center;
-      color: #FFFFFF;
-      /* display: inline; */
       margin: 32px 16px 16px 16px;
 
     }

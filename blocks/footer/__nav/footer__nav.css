@@ -7,12 +7,7 @@
 
 @media screen and (max-width: 550px) {
    .footer__nav {
-
-
-display: flex;
-flex-direction: column;
-
-
-
-   }
+      display: flex;
+      flex-direction: column;
+      }
 }

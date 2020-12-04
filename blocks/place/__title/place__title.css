@@ -16,10 +16,6 @@
 
  @media screen and (max-width: 768px) {
     .place__title {
-
-      font-family: Inter, Arial, sans-serif;
-      font-style: normal;
-      font-weight: 900;
       font-size: 42px;
       line-height: 46px;
 /* identical to box height, or 109% */
@@ -31,9 +27,6 @@
 
 @media screen and (max-width: 404px) {
    .place__title {
-      font-family: Inter, Arial, sans-serif;
-      font-style: normal;
-      font-weight: 900;
       margin: 0 0 32px 0;
       font-size: 32px;
       line-height: 35px;

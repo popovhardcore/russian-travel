@@ -19,14 +19,14 @@
 
 /* identical to box height, or 109% */
 max-width: 720px;
-margin: 0 auto;
+
  }
 }
 @media screen and (max-width: 420px) {
     .photo-grid {
 
     max-width: 288px;
-    margin: 0 auto;
+    
     gap: 12px;
 
     }

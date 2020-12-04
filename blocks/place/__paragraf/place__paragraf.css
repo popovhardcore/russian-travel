@@ -12,10 +12,6 @@
 
 @media screen and (max-width: 768px) {
    .place__paragraf {
-
-    font-family: Inter, Arial, sans-serif;
-    font-style: normal;
-    font-weight: normal;
     font-size: 16px;
     line-height: 163%;
     }
